@@ -1,0 +1,14 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="39" y="25" width="50" height="10" fill="var(--color-contrast-high)"/>
+<rect x="40" y="45" width="84" height="20" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="136" y="45" width="84" height="20" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="40" y="90" width="180" height="20" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="156" y="134" width="65" height="22" rx="2" fill="var(--color-primary)"/>
+<rect x="173" y="142" width="32" height="6" fill="var(--color-bg)"/>
+<rect opacity="0.25" x="39" y="70" width="86" height="15" fill="var(--color-accent)"/>
+<rect opacity="0.25" x="135" y="70" width="86" height="15" fill="var(--color-accent)"/>
+<rect opacity="0.25" x="39" y="115" width="182" height="15" fill="var(--color-accent)"/>
+<rect x="44" y="75" width="45" height="5" fill="var(--color-contrast-high)"/>
+<rect x="44" y="120" width="90" height="5" fill="var(--color-contrast-high)"/>
+<rect x="140" y="75" width="24" height="5" fill="var(--color-contrast-high)"/>
+</svg>
